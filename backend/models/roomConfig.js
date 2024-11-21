@@ -1,3 +1,4 @@
+// backend/models/roomConfig.js
 import mongoose from 'mongoose';
 
 const roomConfigSchema = new mongoose.Schema({

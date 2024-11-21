@@ -1,3 +1,4 @@
+// backend/routes/api.js
 import express from 'express';
 import { MatrixClient, SimpleFsStorageProvider } from 'matrix-bot-sdk';
 import RoomConfig from '../models/roomConfig.js';

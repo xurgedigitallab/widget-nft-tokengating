@@ -1,3 +1,4 @@
+// backend/utils/nftGating.js
 import { MatrixClient, SimpleFsStorageProvider } from 'matrix-bot-sdk';
 import xrpl from 'xrpl';
 import RoomConfig from '../models/roomConfig.js';

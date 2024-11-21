@@ -1,3 +1,4 @@
+// src/components/AdminForm.tsx
 import React, { useState } from 'react';
 
 interface AdminFormProps {
