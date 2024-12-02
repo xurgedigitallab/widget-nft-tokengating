@@ -1,3 +1,5 @@
+https://widget.url/?roomId=$matrix_room_id&userId=$matrix_user_id&displayName=$matrix_display_name&widgetId=$matrix_widget_id.
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
